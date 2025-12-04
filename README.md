@@ -31,7 +31,7 @@ There is one Jupyter notebook per figure:
 <img src="fig_images/fig3-nongrad.png" width="600"/></p>
 
 
-Files containing important functions used by the above notebooks are in the `functions/` folder. Intended notebook outputs are in the `results/` folder.
+Intended notebook outputs are in the `results/` folder.
 
 ## Citation
 
